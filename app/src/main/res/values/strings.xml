@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">ASSISTS</string>
+    <string name="next">Next</string>
+    <string name="telepon">Telepon</string>
+    <string name="nama_perusahaan">Nama Perusahaan</string>
+    <string name="tv1">*</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="tempat_lahir">Tempat Lahir</string>
+    <string name="tv2">*</string>
+    <string name="tgl_lahir">Tgl Lahir</string>
+    <string name="confirm_password2">Confirm Password</string>
+    <string name="register2">Register</string>
+    <string name="tempat_lahir2">Tempat Lahir</string>
+    <string name="tipe">Tipe</string>
+    <string name="tipe1">Tipe</string>
+    <string name="nama_kontak1">Nama Kontak</string>
+    <string name="email1">Email</string>
+    <string name="tgl_lahir1">Tgl Lahir</string>
+    <string name="tv3">*</string>
+    <string name="password1">Password</string>
+    <string name="tv4">*</string>
+    <string name="tv8">*</string>
+    <string name="jenis_kelamin1">Jenis Kelamin</string>
+    <string name="tv11">*</string>
+    <string name="tv6">*</string>
+    <string name="password2">Password</string>
+    <string name="tv0">*</string>
+    <string name="email2">Email</string>
+    <string name="tv01">*</string>
+    <string name="masuk_ke_akun_anda">Masuk ke akun anda</string>
+    <string name="log_in_dengan_facebook">Log in dengan Facebook</string>
+    <string name="atau">Atau</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="masuk">Masuk</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="daftar_disini">Daftar disini</string>
+    <string name="kata_sandi1">Kata Sandi</string>
+    <string name="masuk1">Masuk</string>
+    <string name="belum_punya_akun1">Belum punya akun?</string>
+    <string name="daftar_disini1">Daftar disini</string>
+    <string name="masukkan_email1">Masukkan Email</string>
+    <string name="atau1">Atau</string>
+    <string-array name="title">
+        <item>PT</item>
+        <item>CV</item>
+        <item>UD</item>
+        <item>Toko</item>
+        <item>Lainnya</item>
+    </string-array>
+    <string-array name="gender">
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+</resources>
